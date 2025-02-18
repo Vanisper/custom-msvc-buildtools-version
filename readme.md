@@ -6,4 +6,4 @@
 
 ## 修改说明
 
-核心是修改了 [vcvars.bat](./patch/BuildTools/Common7/Tools/vsdevcmd/ext/vcvars.bat?L723~L750) 文件，增加了对 `__VCVARS_CUSTOM_CONFIG_FILE_NAME` 环境变量的支持。
+核心是修改了 [vcvars.bat](./patch/BuildTools/Common7/Tools/vsdevcmd/ext/vcvars.bat#L728~L750) 文件，增加了对 `__VCVARS_CUSTOM_CONFIG_FILE_NAME` 环境变量的支持。
